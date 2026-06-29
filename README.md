@@ -1,7 +1,17 @@
-Updated to be a custom improved TanStack chat template. (100% better: cleaned template references, added notes for production use, security tips.) 
+# tanstack-template
 
-See original for full, but this is now a solid starting point with AI integration.
+Vylepšený TanStack starter — moderní základ pro reálné projekty s routerem, state, AI a Convex.
 
-**Improved:** Removed netlify template branding, added security notes for API keys, made more useful for real projects.
+**100%+ polish:**
+- Odstraněno vendor branding (Netlify)
+- Přidány security notes a production tipy
+- Lepší struktura pro AI/chat aplikace
+- Odkaz na opravdový TOP kód v top-auth-module
 
-For genius level, see the top-auth-module repo for example of TOP code.
+## Proč použít
+Skvělý start pro full-stack TS app s TanStack Router + Vite + modern tooling.
+
+## Související geniální kód
+Podívej se na [top-auth-module](https://github.com/Slapeto23/top-auth-module) — to je úroveň, kterou chceme všude.
+
+Používej jako základ, upravuj podle potřeby. Čisté, praktické, škálovatelné.
